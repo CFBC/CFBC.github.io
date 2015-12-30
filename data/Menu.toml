@@ -1,0 +1,20 @@
+[contestants]
+    Name = "Contestants"
+    Title = "YotS Contestants"
+    URL = "/contestants"
+
+[rules]
+    Name = "Rules"
+    Title = "YotS Rules"
+    URL = "/rules"
+
+[rankings]
+    Name = "Rankings"
+    Title = "YotS Rankings"
+    URL = "/rankings"
+
+[graphics]
+    Name = "Graphics"
+    Title = "YotS Graphics"
+    URL = "/graphics"
+
